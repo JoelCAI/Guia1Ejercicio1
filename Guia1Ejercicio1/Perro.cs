@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Guia1Ejercicio1
 {
-    internal class Gato
+    internal class Perro
     {
 
     }
